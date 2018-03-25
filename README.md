@@ -1,4 +1,4 @@
-This project converts  rdf files to .graphml format. It uses apache jena to read the rdf file. Then model created is converted 
+This project converts  rdf files to .graphml format. It uses apache jena to read the rdf file. Then created model is converted 
 to tinkerpop blueprint graph by extracting subject, predicate and object. That graph is exported as graphml file.
 
 To use this project, download it and open it with netbeans.

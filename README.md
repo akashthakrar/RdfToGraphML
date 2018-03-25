@@ -31,7 +31,9 @@ http://www.java2s.com/Code/Jar/g/Downloadgremlinjava240jar.htm
 ( 10th dependency can be downloaded from this link. )
 ( Extract zip to get the jar )
 
-Need to give full path to the source file (.ttl / .nt / xml (.rdf file) )
+provide full path to the source file (.ttl / .nt / xml (.rdf file) ) as first command line argument.
+provide full path to directory for store of tdb data as second argument.
+
 Output will be available in main project folder with name result.graphml .
 
 -> from_nt.graphml contains output of .nt file downloaded from https://www.wikidata.org/wiki/Special:EntityData/Q46352885.nt
